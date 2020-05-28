@@ -162,7 +162,7 @@ public class VoiceParseService implements Serializable {
     /**
      * @methodName: queryParseResult
      * @param: request
-     * @describe: 进件提交
+     * @describe: 语音转换结果查询
      * @auther: LiuJianbo
      * @date: 2020/5/25
      * @time: 18:24
